@@ -1,0 +1,3 @@
+@echo off
+echo Starting Slide Controller...
+powershell -ExecutionPolicy Bypass -File "%~dp0SlideController.ps1"
